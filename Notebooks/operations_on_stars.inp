@@ -1,0 +1,156 @@
+### This file contains a list of procedures to be applied to 
+### each individual Be star with measured data.
+
+
+
+STAR 4180
+### o Cas
+BINF_ALPHAL_BL YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_ALPHAW3W4_W3 YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_2DLENORZER YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_WISEBESS YES 100 700 ./bayesian_inference_01/ suffix01
+END_STAR
+
+STAR 5394
+### gamma Cas
+BINF_ALPHAL_BL YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_ALPHAW3W4_W3 YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_2DLENORZER YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_WISEBESS YES 100 700 ./bayesian_inference_01/ suffix01
+END_STAR
+
+STAR 11606
+### V777 Cas
+BINF_ALPHAL_BL YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_ALPHAW3W4_W3 YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_2DLENORZER YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_WISEBESS YES 100 700 ./bayesian_inference_01/ suffix01
+END_STAR
+
+STAR 20336
+### Bk Cam
+BINF_ALPHAL_BL YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_ALPHAW3W4_W3 YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_2DLENORZER YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_WISEBESS YES 100 700 ./bayesian_inference_01/ suffix01
+END_STAR
+
+STAR 23480
+### 23Tau
+BINF_ALPHAL_BL YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_ALPHAW3W4_W3 YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_2DLENORZER YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_WISEBESS YES 100 700 ./bayesian_inference_01/ suffix01
+END_STAR
+
+STAR 23630
+### 25 Tau
+BINF_ALPHAL_BL YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_ALPHAW3W4_W3 YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_2DLENORZER YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_WISEBESS YES 100 700 ./bayesian_inference_01/ suffix01
+END_STAR
+
+STAR 23862
+### 28Tau
+BINF_ALPHAL_BL YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_ALPHAW3W4_W3 YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_2DLENORZER YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_WISEBESS YES 100 700 ./bayesian_inference_01/ suffix01
+END_STAR
+
+STAR 191610
+### 28Cyg
+BINF_ALPHAL_BL YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_ALPHAW3W4_W3 YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_2DLENORZER YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_WISEBESS YES 100 700 ./bayesian_inference_01/ suffix01
+END_STAR
+
+STAR 193009
+### V2113 Cyg
+BINF_ALPHAL_BL YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_ALPHAW3W4_W3 YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_2DLENORZER YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_WISEBESS YES 100 700 ./bayesian_inference_01/ suffix01
+END_STAR
+
+STAR 194335
+### V2119 Cyg
+BINF_ALPHAL_BL YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_ALPHAW3W4_W3 YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_2DLENORZER YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_WISEBESS YES 100 700 ./bayesian_inference_01/ suffix01
+END_STAR
+
+STAR 194883
+### V2120 Cyg
+BINF_ALPHAL_BL YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_ALPHAW3W4_W3 YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_2DLENORZER YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_WISEBESS YES 100 700 ./bayesian_inference_01/ suffix01
+END_STAR
+
+STAR 195907
+### V2123 Cyg
+BINF_ALPHAL_BL YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_ALPHAW3W4_W3 YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_2DLENORZER YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_WISEBESS YES 100 700 ./bayesian_inference_01/ suffix01
+END_STAR
+
+STAR 197419
+### V568 Cyg
+BINF_ALPHAL_BL YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_ALPHAW3W4_W3 YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_2DLENORZER YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_WISEBESS YES 100 700 ./bayesian_inference_01/ suffix01
+END_STAR
+
+STAR 200310
+### 60Cyg
+BINF_ALPHAL_BL YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_ALPHAW3W4_W3 YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_2DLENORZER YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_WISEBESS YES 100 700 ./bayesian_inference_01/ suffix01
+END_STAR
+
+STAR 202904
+### ups Cyg
+BINF_ALPHAL_BL YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_ALPHAW3W4_W3 YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_2DLENORZER YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_WISEBESS YES 100 700 ./bayesian_inference_01/ suffix01
+END_STAR
+
+STAR 204722
+### V2162 Cyg
+BINF_ALPHAL_BL YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_ALPHAW3W4_W3 YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_2DLENORZER YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_WISEBESS YES 100 700 ./bayesian_inference_01/ suffix01
+END_STAR
+
+STAR 210129
+### 25Peg
+BINF_ALPHAL_BL YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_ALPHAW3W4_W3 YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_2DLENORZER YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_WISEBESS YES 100 700 ./bayesian_inference_01/ suffix01
+END_STAR
+
+STAR 217675
+### o And
+BINF_ALPHAL_BL YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_ALPHAW3W4_W3 YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_2DLENORZER YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_WISEBESS YES 100 700 ./bayesian_inference_01/ suffix01
+END_STAR
+
+STAR 217891
+### beta Psc
+BINF_ALPHAL_BL YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_ALPHAW3W4_W3 YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_2DLENORZER YES 100 700 ./bayesian_inference_01/ suffix01
+#BINF_WISEBESS YES 100 700 ./bayesian_inference_01/ suffix01
+END_STAR
