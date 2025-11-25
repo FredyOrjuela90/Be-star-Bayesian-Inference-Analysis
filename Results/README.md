@@ -128,5 +128,5 @@ All results presented here can be reproduced by running the notebooks in this re
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<user>/BeAtlas-Lband-2025.git
+   https://github.com/FredyOrjuela90/Be-star-Bayesian-Inference-Analysis.git
    cd BeAtlas-Lband-2025
