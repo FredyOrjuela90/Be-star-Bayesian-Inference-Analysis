@@ -31,7 +31,7 @@ All the figures shown below are generated directly from these notebooks.
 
 ### 1. Convergence diagnostics (R̂ heatmap)
 
-![Rhat per parameter and star](sandbox:/mnt/data/Rhat.png)
+![Rhat per parameter and star](Figures/Rhat.png)
 
 This heatmap shows the **Gelman–Rubin statistic R̂** for each parameter and each star:
 
@@ -51,7 +51,7 @@ The global result is that the **Bayesian inference is statistically robust** for
 
 ### 2. Lenorzer diagram – L-band line ratios and groups I/II
 
-![Lenorzer diagram](sandbox:/mnt/data/Lenorzer.png)
+![Lenorzer diagram](Figures/Lenorzer.png)
 
 This panel shows the classical **Lenorzer L-band line-ratio diagram**:
 
@@ -77,7 +77,7 @@ The Lenorzer diagram demonstrates that **Groups I and II correspond to physicall
 
 ### 3. Stellar mass distribution for Groups I and II
 
-![Mass histogram and violin plots](sandbox:/mnt/data/Histog.png)
+![Mass histogram and violin plots](Figures/Histog.png)
 
 This figure compares the **stellar mass distributions** of Group I and Group II:
 
@@ -98,7 +98,7 @@ Therefore, the different L-band line-ratio behaviour must be linked to **disk pr
 
 ### 4. Posterior correlations between model parameters (chord diagram)
 
-![Chord diagram of posterior correlations](sandbox:/mnt/data/Chord.png)
+![Chord diagram of posterior correlations](Figures/Chord.png)
 
 This chord diagram summarizes the **posterior correlations** between the main model parameters:
 
